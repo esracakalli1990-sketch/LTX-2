@@ -88,3 +88,4 @@ wandb/
 # Binary files
 *.o
 *.so
+cikti/
